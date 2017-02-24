@@ -1,5 +1,5 @@
 # BloomFilter
-This code is an extension to the Hashing assignment for the "COMSM1201: Programming in C" course at the University of Bristol (UK). You can find a short description of the algorithm below.
+This code is an extension to the hashing assignment for the "COMSM1201: Programming in C" course at the University of Bristol (UK). You can find a short description of the algorithm below.
 
 An interesting antidote to hashing is the use of a Bloom filter,
 a probalistic data structure which does not store the actual keys,
